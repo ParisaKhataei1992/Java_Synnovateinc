@@ -9,9 +9,11 @@ public class Main {
         double a;
         double b;
         double h = 0.0;
+        boolean continueFlag = true;
 
         Scanner inputNumbers = new Scanner(System.in);
 
+        while (continueFlag){
         System.out.print("Please Enter Line A: ");
         a = inputNumbers.nextDouble();
 
