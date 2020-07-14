@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63378a63-e5f2-430b-9b66-e8a3628fdb60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Collection_HashSet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections_List/src/com/company/Book.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eQEIFtvOgOOPvsumNP7VtSJQVN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Collection_HashSer_TreeSet" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Collection_HashSer" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63378a63-e5f2-430b-9b66-e8a3628fdb60" name="Default Changelist" comment="" />
+      <created>1594245334828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594245334828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="165" y="172" key="FileChooserDialogImpl" timestamp="1594248104190">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="165" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1594248104190" />
+    <state width="724" height="163" key="GridCell.Tab.0.bottom" timestamp="1594248105900">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="724" height="163" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594248105900" />
+    <state width="724" height="163" key="GridCell.Tab.0.center" timestamp="1594248105900">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="724" height="163" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594248105900" />
+    <state width="724" height="163" key="GridCell.Tab.0.left" timestamp="1594248105900">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="724" height="163" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594248105900" />
+    <state width="724" height="163" key="GridCell.Tab.0.right" timestamp="1594248105900">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="724" height="163" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594248105900" />
+  </component>
+</project>
